@@ -1,6 +1,4 @@
-//
-// Created by Valentina on 11/12/2021.
-//
+
 
 #ifndef INC_8_LIB_H
 #define INC_8_LIB_H
