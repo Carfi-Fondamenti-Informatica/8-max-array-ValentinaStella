@@ -1,6 +1,4 @@
-//
-// Created by Valentina on 11/12/2021.
-//
+
 #include "lib.h"
 float numM (const float num[], int dim){
     num[dim];
